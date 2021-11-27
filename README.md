@@ -7,7 +7,7 @@ CMD ["java", "-jar", "web.jar"]
 EXPOSE 8080
 ```
 
-```spring
+```java
 spring.datasource.url=jdbc:mysql://localhost:8889/produits?serverTimezone=UTC
 spring.datasource.username=root
 spring.datasource.password=root
