@@ -1,4 +1,4 @@
-# Définition d'une image d'une application Spring Boot qui utilise la persistence des données une base MySQL 
+# Définition d'une image d'une application Spring Boot qui utilise pour la persistence des données une base MySQL 
 
 ```dockerfile
 FROM openjdk
